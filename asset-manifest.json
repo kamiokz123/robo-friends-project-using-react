@@ -1,15 +1,17 @@
 {
-  "files": {
-    "main.css": "/robo-friends-project-using-react/static/css/main.1f1126b2.css",
-    "main.js": "/robo-friends-project-using-react/static/js/main.ddc3854b.js",
-    "static/js/787.e8f3daa8.chunk.js": "/robo-friends-project-using-react/static/js/787.e8f3daa8.chunk.js",
-    "index.html": "/robo-friends-project-using-react/index.html",
-    "main.1f1126b2.css.map": "/robo-friends-project-using-react/static/css/main.1f1126b2.css.map",
-    "main.ddc3854b.js.map": "/robo-friends-project-using-react/static/js/main.ddc3854b.js.map",
-    "787.e8f3daa8.chunk.js.map": "/robo-friends-project-using-react/static/js/787.e8f3daa8.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.1f1126b2.css",
-    "static/js/main.ddc3854b.js"
-  ]
+  "main.css": "/robo-friends-project-using-react/static/css/main.815405a7.chunk.css",
+  "main.js": "/robo-friends-project-using-react/static/js/main.da4bead5.chunk.js",
+  "main.js.map": "/robo-friends-project-using-react/static/js/main.da4bead5.chunk.js.map",
+  "static/js/1.4587b355.chunk.js": "/robo-friends-project-using-react/static/js/1.4587b355.chunk.js",
+  "static/js/1.4587b355.chunk.js.map": "/robo-friends-project-using-react/static/js/1.4587b355.chunk.js.map",
+  "static/css/2.03bea8c2.chunk.css": "/robo-friends-project-using-react/static/css/2.03bea8c2.chunk.css",
+  "static/js/2.aa85ada3.chunk.js": "/robo-friends-project-using-react/static/js/2.aa85ada3.chunk.js",
+  "static/js/2.aa85ada3.chunk.js.map": "/robo-friends-project-using-react/static/js/2.aa85ada3.chunk.js.map",
+  "runtime~main.js": "/robo-friends-project-using-react/static/js/runtime~main.f514bc51.js",
+  "runtime~main.js.map": "/robo-friends-project-using-react/static/js/runtime~main.f514bc51.js.map",
+  "static/css/main.815405a7.chunk.css.map": "/robo-friends-project-using-react/static/css/main.815405a7.chunk.css.map",
+  "static/css/2.03bea8c2.chunk.css.map": "/robo-friends-project-using-react/static/css/2.03bea8c2.chunk.css.map",
+  "index.html": "/robo-friends-project-using-react/index.html",
+  "precache-manifest.fade00a3a6543baec88f8f1fe5224eec.js": "/robo-friends-project-using-react/precache-manifest.fade00a3a6543baec88f8f1fe5224eec.js",
+  "service-worker.js": "/robo-friends-project-using-react/service-worker.js"
 }
